@@ -1,0 +1,1 @@
+find . -type f \( -name "*.out" -o -name "run" -o -name "clean" \) -print -delete

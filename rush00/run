@@ -1,0 +1,3 @@
+norminette -R CheckForbiddenSourceHeader
+gcc -Wall -Wextra -Werror ft_putchar.c main.c rush0X.c
+./a.out | cat -e
